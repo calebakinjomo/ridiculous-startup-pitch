@@ -1,3 +1,7 @@
+[![make.fun · u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
+[![rank](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/calebakinjomo/ridiculous-startup-pitch/rank.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
+[![reward](https://make.fun/badge/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a/calebakinjomo/ridiculous-startup-pitch/reward.svg)](https://make.fun/bounty/u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a)
+
 # Ridiculous at First Glance, Real by the Second
 
 A make.fun bounty entry: one sentence, no more than 200 characters, pitching a
@@ -32,3 +36,7 @@ reader can see the customers and the money.
   (`u-po-pu-ridiculous-at-first-glance-real-by-the-second-9a97d12a`)
 - Entry: free, $2 pot, program/v1, blind rounds
 - Deadline: Tue 2026-11-24 20:25 WAT
+
+## Play on make.fun
+
+Referral code: `hdavhdvz` — play on [make.fun](https://make.fun).
